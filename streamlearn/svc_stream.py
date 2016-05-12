@@ -1,3 +1,6 @@
+# Author: Robert M. Forgione <rforgione@gmail.com>
+# License: MIT
+
 import numpy as np
 from sklearn.linear_model import SGDClassifier
 from sklearn.metrics.pairwise import euclidean_distances
